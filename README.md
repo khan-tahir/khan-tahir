@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Tahir Khan, a computer engineering student on a quest to unravel the stories embedded in data. From my roots in mechanical engineering, I've seamlessly transitioned into the realms of artificial intelligence and robotics.
+I'm Tahir Khan, a engineering student on a quest to unravel the stories embedded in data. I've seamlessly transitioned into the realms of artificial intelligence and robotics.
 
 🚀 Aspiring to build a career at the crossroads of data analysis, AI, and robotics, I'm passionate about crafting intelligent systems and exploring the infinite possibilities technology offers.
 
