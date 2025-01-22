@@ -1,10 +1,8 @@
 # Hi there! 👋
 
-I'm Tahir Khan, a engineering student on a quest to unravel the stories embedded in data. I've seamlessly transitioned into the realms of artificial intelligence and robotics.
+I'm Tahir,
 
-🚀 Aspiring to build a career at the crossroads of data analysis, AI, and robotics, I'm passionate about crafting intelligent systems and exploring the infinite possibilities technology offers.
-
-🌐 Currently diving into the intricacies of data-driven insights, I'm excited about the transformative impact of these technologies.
+🚀 Aspiring to build a career at the crossroads of AI, and robotics, I'm passionate about crafting intelligent systems and exploring the infinite possibilities technology offers.
 
 💻 Whether it's crunching numbers, developing AI algorithms, or tinkering with robotics marvels, you'll find it here. Let's connect, collaborate, and shape the future of tech together!
 
