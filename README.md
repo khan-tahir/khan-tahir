@@ -6,7 +6,7 @@ I'm Tahir,
 
 💻 Whether it's crunching numbers, developing AI algorithms, or tinkering with robotics marvels, you'll find it here. Let's connect, collaborate, and shape the future of tech together!
 
-📫 Reach out on [LinkedIn](your-linkedin-profile). Happy coding! 🚀
+📫 Reach out on [LinkedIn](www.linkedin.com/in/khan-tahir). Happy coding! 🚀
 
 
 <!---
