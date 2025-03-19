@@ -2,7 +2,7 @@
 
 I'm Tahir,
 
-🚀 Aspiring to build a career at the crossroads of AI, and robotics, I'm passionate about crafting intelligent systems and exploring the infinite possibilities technology offers.
+🚀 Aspiring Engineer, I'm passionate about crafting intelligent systems and exploring the infinite possibilities technology offers.
 
 💻 Whether it's crunching numbers, developing AI algorithms, or tinkering with robotics marvels, you'll find it here. Let's connect, collaborate, and shape the future of tech together!
 
