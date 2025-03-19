@@ -4,7 +4,7 @@ I'm Tahir,
 
 🚀 Aspiring Engineer, I'm passionate about crafting intelligent systems and exploring the infinite possibilities technology offers.
 
-💻 Whether it's crunching numbers, developing AI algorithms, or tinkering with robotics marvels, you'll find it here. Let's connect, collaborate, and shape the future of tech together!
+💻 Whether it's crunching numbers, developing AI algorithms, or tinkering with marvels, you'll find it here. Let's connect, collaborate, and shape the future of tech together!
 
 📫 Reach out on [LinkedIn](www.linkedin.com/in/khan-tahir). Happy coding! 🚀
 
